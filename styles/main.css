@@ -1,0 +1,109 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html, body {
+	font-family: 'vag_roundedbold', sans-serif;
+}
+
+.wrapper {
+	min-width: 960px;
+}
+
+.header {
+	background-color: white;
+	padding: 20px 0 0;
+	height: 120px;
+	background: url(../assets/right-bubbles.png) right bottom no-repeat,
+		url(../assets/left-bubbles.png) left bottom no-repeat;
+}
+
+.main-logo {
+	text-indent: -9999px;
+	overflow: hidden;
+	background-image: url(../assets/gifaraoke.png);
+	display: block;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+	width: 300px;
+	height: 80px;
+}
+
+.grid {
+	overflow: hidden;
+}
+
+.grid-item {
+	width: 25%;
+	background: #ffd6a4;
+	float: left;
+	padding-bottom: 25%;
+	position: relative;
+	cursor: pointer;
+}
+
+.grid-item:before {
+	content: ' ';
+	display: block;
+}
+
+.grid-item:hover::before {
+	background-color: white;
+	opacity: .3;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.grid-item:hover .button{
+	display: block;
+	opacity: 1;
+}
+
+.button {
+	border-radius: 23px;
+	line-height: 44px;
+	border: 3px solid #3b0011;
+	position: absolute;
+	font-size: 20px;
+	padding: 0 20px;
+	height: 46px;
+	color: #3b0011;
+	width: 182px;
+	text-transform: lowercase;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -26px;
+	margin-left: -91px;
+	background-color: transparent;
+	opacity: 0;
+	-webkit-transition: .3s ease opacity;
+	-o-transition: .3s ease opacity;
+	transition: .3s ease opacity;
+}
+
+.beats-logo {
+	display: block;
+	margin: 0 auto 5px;
+	width: 30px;
+	height: 30px;
+	background-image: url(../assets/beats-logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.footer {
+	padding: 35px 0 10px;
+	text-align: center;
+	height: 120px;
+	font-size: 16px;
+	text-transform: lowercase;
+	color: #f999a7;
+}
+
+
+
