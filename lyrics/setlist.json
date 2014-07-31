@@ -14,7 +14,20 @@
     {
       "artist": "ABBA",
       "lyrics": [
-        {"starttime": 1000, "content":"You can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen\\nFriday night and the lights are low\\nLooking out for the place to go\\nWhere they play the right music, getting in the swing\\nYou come in to look for a king\\nAnybody could be that guy\\nNight is young and the music's high\\nWith a bit of rock music, everything is fine\\nYou're in the mood for a dance\\nAnd when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen\\nDancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen\\nYou're a teaser, you turn 'em on\\nLeave them burning and then you're gone\\nLooking out for another, anyone will do\\nYou're in the mood for a dance\\nAnd when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen\\nDancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen"}
+        {"starttime": 0, "content":"You can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen"},
+        {"starttime": 46, "content":"Friday night and the lights are low\\nLooking out for the place to go"},
+        {"starttime": 55, "content":"Where they play the right music, getting in the swing\\nYou come in to look for a king"},
+        {"starttime": 62, "content":"Anybody could be that guy\\nNight is young and the music's high"},
+        {"starttime": 72, "content":"With a bit of rock music, everything is fine\\nYou're in the mood for a dance"},
+        {"starttime": 81, "content":"And when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen"},
+        {"starttime": 96, "content":"Dancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life"},
+        {"starttime": 114, "content":"See that girl, watch that scene, digging the Dancing Queen"},
+        {"starttime": 131, "content":"You're a teaser, you turn 'em on\\nLeave them burning and then you're gone"},
+        {"starttime": 140, "content":"Looking out for another, anyone will do\\nYou're in the mood for a dance"},
+        {"starttime": 150, "content":"And when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen"},
+        {"starttime": 164, "content":"Dancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life"},
+        {"starttime": 181, "content":"See that girl, watch that scene, digging the Dancing Queen"}
+        
       ],
       "title": "Dancing Queen",
       "asset": "dancing_queen_abba.mp3",
