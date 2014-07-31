@@ -26,7 +26,7 @@ html, body {
 
 .audio {
 	z-index: 2000;
-	position: absolute; 
+	position: absolute;
 }
 
 .close {
