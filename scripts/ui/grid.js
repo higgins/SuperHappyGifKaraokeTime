@@ -24,8 +24,8 @@ define(function (require) {
 			$('.grid').html(msg.html);
 		};
 
-		this.gridClicked = function () {
-			$(document).trigger('uiStageOpen');
+		this.gridClicked = function (evt, msg) {
+			$(document).trigger('uiStageOpen', {id: $(msg.el).data('id')});
 		};
 	};
 
