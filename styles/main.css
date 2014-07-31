@@ -22,7 +22,6 @@ html, body {
 	top: 0;
 	left: 0;
 	z-index: 900;
-	display: none;
 }
 
 .stage {
@@ -49,6 +48,7 @@ html, body {
 	-moz-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	border-radius: 20px;
+	text-align: center;
 }
 
 .header {
@@ -130,6 +130,7 @@ html, body {
 	-webkit-transition: .2s ease opacity;
 	-o-transition: .2s ease opacity;
 	transition: .2s ease opacity;
+	outline: none;
 }
 
 .beats-logo {
@@ -151,5 +152,44 @@ html, body {
 	color: #f999a7;
 }
 
+/* Welcome Popup Styles */
 
+.welcome-bunny {
+	margin: 8px auto;
+	background: url(../assets/welcome-bunny.png) no-repeat center center;
+	height: 320px;
+	width: 320px;
+}
 
+.welcome-text {
+	margin: 0 auto;
+	background: url(../assets/welcome-text.png) no-repeat center center;
+	height: 50px;
+	width: 300px;
+}
+
+.welcome-info {
+	color: #3b0011;
+	margin-top: 3px;
+	font-size: 21px;
+}
+
+.modal button {
+	border-radius: 23px;
+	line-height: 42px;
+	border: 3px solid #3b0011;
+	font-size: 20px;
+	padding: 0 20px;
+	height: 50px;
+	color: #3b0011;
+	width: 182px;
+	text-transform: uppercase;
+	background-color: transparent;
+	outline: none;
+	margin-top: 8px
+}
+
+button:active {
+	background-color: #3b0011;
+	color: white;
+}
