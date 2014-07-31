@@ -1,9 +1,10 @@
 requirejs.config({
   baseUrl: '',
   paths: {
+    'underscore': 'bower_components/underscore/underscore',
     'flight': 'bower_components/flight',
     'text': 'bower_components/requirejs-text/text',
-    'hbs': '/bower_components/require-handlebars-plugin/hbs'
+    'hbs': 'bower_components/require-handlebars-plugin/hbs'
   }
 });
 

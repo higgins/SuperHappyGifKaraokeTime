@@ -2,6 +2,7 @@
 
 define(function (require) {
 	var defineComponent = require('flight/lib/component');
+	var _ = require('underscore');
 	var text = require('text!/lyrics/setlist.json');
 	var gridTemplate = require('hbs!/templates/grid');
 
@@ -12,8 +13,9 @@ define(function (require) {
 
 		this.getSetlist = function () {
 			var data = JSON.parse(text);
+			var setlist = _.shuffle(data.setlist);
 			$(document).trigger('dataSetlist',
-				{html: gridTemplate({tracks: data.setlist})
+				{html: gridTemplate({tracks: setlist})
 			});
 		};
 	};
