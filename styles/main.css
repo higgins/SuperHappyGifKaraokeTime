@@ -37,21 +37,28 @@ html, body {
 
 .grid-item {
 	width: 25%;
-	background: #ffd6a4;
+	background-color: #ffd6a4;
 	float: left;
 	padding-bottom: 25%;
 	position: relative;
 	cursor: pointer;
+	background-size: cover;
+	background-position: center;
+	-webkit-transform: translateZ(0);
 }
 
 .grid-item:before {
 	content: ' ';
 	display: block;
+	opacity: 0;
+	-webkit-transition: .2s ease opacity;
+	-o-transition: .2s ease opacity;
+	transition: .2s ease opacity;
 }
 
 .grid-item:hover::before {
 	background-color: white;
-	opacity: .3;
+	opacity: .6;
 	height: 100%;
 	width: 100%;
 	position: absolute;
@@ -65,7 +72,7 @@ html, body {
 
 .button {
 	border-radius: 23px;
-	line-height: 44px;
+	line-height: 42px;
 	border: 3px solid #3b0011;
 	position: absolute;
 	font-size: 20px;
@@ -81,9 +88,9 @@ html, body {
 	margin-left: -91px;
 	background-color: transparent;
 	opacity: 0;
-	-webkit-transition: .3s ease opacity;
-	-o-transition: .3s ease opacity;
-	transition: .3s ease opacity;
+	-webkit-transition: .2s ease opacity;
+	-o-transition: .2s ease opacity;
+	transition: .2s ease opacity;
 }
 
 .beats-logo {
