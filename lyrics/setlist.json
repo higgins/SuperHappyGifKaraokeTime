@@ -2,19 +2,25 @@
   "setlist": [
     {
       "artist": "Queen",
-      "lyrics": "Is this the real life?\\nIs this just fantasy?\\nCaught in a landslide\\nNo escape from reality\\nOpen your eyes\\nLook up to the skies and see\\nI'm just a poor boy, I need no sympathy\\nBecause I'm easy come, easy go\\nA little high, little low\\nAnyway the wind blows, doesn't really matter to me, to me\\nMama, just killed a man\\nPut a gun against his head\\nPulled my trigger, now he's dead\\nMama, life had just begun\\nBut now I've gone and thrown it all away\\nMama, ooo\\nDidn't mean to make you cry\\nIf I'm not back again this time tomorrow\\nCarry on, carry on, as if nothing really matters\\nToo late, my time has come\\nSends shivers down my spine\\nBody's aching all the time\\nGoodbye everybody - I've got to go\\nGotta leave you all behind and face the truth\\nMama, ooo - (anyway the wind blows)\\nI don't want to die\\nI sometimes wish I'd never been born at all\\nI see a little silhouetto of a man\\nScaramouch, scaramouch will you do the fandango\\nThunderbolt and lightning - very very frightening me\\nGallileo, Gallileo,\\nGallileo, Gallileo,\\nGallileo Figaro - magnifico\\nBut I'm just a poor boy and nobody loves me\\nHe's just a poor boy from a poor family\\nSpare him his life from this monstrosity\\nEasy come easy go - will you let me go\\nBismillah! No - we will not let you go - let him go\\nBismillah! We will not let you go - let him go\\nBismillah! We will not let you go - let me go\\nWill not let you go - let me go (never)\\nNever let you go - let me go\\nNever let me go - ooo\\nNo, no, no, no, no, no, no -\\nOh mama mia, mama mia, mama mia let me go\\nBeelzebub has a devil put aside for me\\nfor me\\nfor me\\nSo you think you can stone me and spit in my eye\\nSo you think you can love me and leave me to die\\nOh baby - can't do this to me baby\\nJust gotta get out - just gotta get right outta here\\nOoh yeah, ooh yeah\\nNothing really matters\\nAnyone can see\\nNothing really matters - nothing really matters to me",
-      "title": "Bohemian Rhapsode",
+      "lyrics": [
+        {"starttime": 1000, "content":"Is this the real life?\\nIs this just fantasy?\\nCaught in a landslide\\nNo escape from reality\\nOpen your eyes\\nLook up to the skies and see\\nI'm just a poor boy, I need no sympathy\\nBecause I'm easy come, easy go\\nA little high, little low\\nAnyway the wind blows, doesn't really matter to me, to me\\nMama, just killed a man\\nPut a gun against his head\\nPulled my trigger, now he's dead\\nMama, life had just begun\\nBut now I've gone and thrown it all away\\nMama, ooo\\nDidn't mean to make you cry\\nIf I'm not back again this time tomorrow\\nCarry on, carry on, as if nothing really matters\\nToo late, my time has come\\nSends shivers down my spine\\nBody's aching all the time\\nGoodbye everybody - I've got to go\\nGotta leave you all behind and face the truth\\nMama, ooo - (anyway the wind blows)\\nI don't want to die\\nI sometimes wish I'd never been born at all\\nI see a little silhouetto of a man\\nScaramouch, scaramouch will you do the fandango\\nThunderbolt and lightning - very very frightening me\\nGallileo, Gallileo,\\nGallileo, Gallileo,\\nGallileo Figaro - magnifico\\nBut I'm just a poor boy and nobody loves me\\nHe's just a poor boy from a poor family\\nSpare him his life from this monstrosity\\nEasy come easy go - will you let me go\\nBismillah! No - we will not let you go - let him go\\nBismillah! We will not let you go - let him go\\nBismillah! We will not let you go - let me go\\nWill not let you go - let me go (never)\\nNever let you go - let me go\\nNever let me go - ooo\\nNo, no, no, no, no, no, no -\\nOh mama mia, mama mia, mama mia let me go\\nBeelzebub has a devil put aside for me\\nfor me\\nfor me\\nSo you think you can stone me and spit in my eye\\nSo you think you can love me and leave me to die\\nOh baby - can't do this to me baby\\nJust gotta get out - just gotta get right outta here\\nOoh yeah, ooh yeah\\nNothing really matters\\nAnyone can see\\nNothing really matters - nothing really matters to me"}
+      ],
+      "title": "Bohemian Rhapsody",
       "asset": "bohemian_rhapsody_queen.mp3",
       "id": "bohemian_rhapsody_queen",
-      "gif": "bohemian_rhapsody_queen.gif"
+      "gif": "bohemian_rhapsody_queen.gif",
+      "jpg": "bohemian_rhapsody_queen.jpg"
     },
     {
       "artist": "ABBA",
-      "lyrics": "You can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen\\nFriday night and the lights are low\\nLooking out for the place to go\\nWhere they play the right music, getting in the swing\\nYou come in to look for a king\\nAnybody could be that guy\\nNight is young and the music's high\\nWith a bit of rock music, everything is fine\\nYou're in the mood for a dance\\nAnd when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen\\nDancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen\\nYou're a teaser, you turn 'em on\\nLeave them burning and then you're gone\\nLooking out for another, anyone will do\\nYou're in the mood for a dance\\nAnd when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen\\nDancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen",
+      "lyrics": [
+        {"starttime": 1000, "content":"You can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen\\nFriday night and the lights are low\\nLooking out for the place to go\\nWhere they play the right music, getting in the swing\\nYou come in to look for a king\\nAnybody could be that guy\\nNight is young and the music's high\\nWith a bit of rock music, everything is fine\\nYou're in the mood for a dance\\nAnd when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen\\nDancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen\\nYou're a teaser, you turn 'em on\\nLeave them burning and then you're gone\\nLooking out for another, anyone will do\\nYou're in the mood for a dance\\nAnd when you get the chance...\\nYou are the Dancing Queen, young and sweet, only seventeen\\nDancing Queen, feel the beat from the tambourine\\nYou can dance, you can jive, having the time of your life\\nSee that girl, watch that scene, digging the Dancing Queen"}
+      ],
       "title": "Dancing Queen",
       "asset": "dancing_queen_abba.mp3",
       "id": "dancing_queen_abba",
-      "gif": "dancing_queen_abba.gif"
+      "gif": "dancing_queen_abba.gif",
+      "jpg": "dancing_queen_abba.jpg"
     },
     {
       "artist": "Bryan Adams",
@@ -22,7 +28,8 @@
       "title": "Everything I Do I Do It For You",
       "asset": "everything_i_do_bryan_adams.mp3",
       "id": "everything_i_do_bryan_adams",
-      "gif": "everything_i_do_bryan_adams.gif"
+      "gif": "everything_i_do_bryan_adams.gif",
+      "jpg": "everything_i_do_bryan_adams.jpg"
     },
     {
       "artist": "Dr. Dre",
@@ -30,23 +37,58 @@
       "title": "Forgot About Dre",
       "asset": "forgot_about_dre_dre.mp3",
       "id": "forgot_about_dre_dre",
-      "gif": "forgot_about_dre_dre.gif"
+      "gif": "forgot_about_dre_dre.gif",
+      "jpg": "forgot_about_dre_dre.jpg"
     },
     {
       "artist": "Kanye West",
-      "lyrics": "She take my money when I'm in need\\nYea she's a triflin' friend indeed\\nOh she's a gold digger way over town\\nThat digs on me\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head\\nCutie the bomb, met her at a beauty salon\\nWith a baby Louis Vuitton under her underarm\\nShe said I can tell you ROC, I can tell by ya charm\\nFar as girls you got a flock\\nI can tell by ya charm and ya arm\\nBut I'm lookin' for the one\\nHave you seen her?\\nMy psychic told me she have a ass like Serena\\nTrina, Jennifer Lopez, four kids\\nAn I gotta take all they bad ass to showbiz\\nOk, get yo' kids but then they got their friends\\nI pulled up in the Benz, they all got a pen\\nWe all went to Den and then I had to pay\\nIf you fuckin' with this girl then you betta be payed\\nYou know why?\\nIt take too much to touch her\\nFrom what I heard she got a baby by Busta\\nMy best friend say she use to fuck wit Usher\\nI don't care what none of ya'll say I still love her\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head\\n18 years, 18 years\\nShe got one of yo' kids, got you for 18 years\\nI know somebody payin' child support for one of his kids\\nHis baby momma's car and crib is bigger than his\\nYou will see him on TV Any Given Sunday\\nWin the Superbowl and drive off in a Hyundai\\nShe was spose' to buy ya shorty Tyco with ya money\\nShe went to the doctor got lypo with ya money\\nShe walkin' around lookin' like Micheal with ya money\\nShould of got that insured Geico for ya money\\nIf you ain't no punk holla, 'We want prenup'\\n'We want prenup!', yeaah\\nIt's something that you need to have\\n'Cause when she leave yo' ass she gone leave with half\\n18 years, 18 years\\nAnd on her 18th birthday, he found out it wasn't his\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head\\nNow I ain't sayin' you a gold digger, you got needs\\nYou don't want ya dude to smoke but he can't buy weed\\nYou go out to eat and he can't pay, ya'll can't leave\\nThere's dishes in the back, he gotta roll up his sleeves\\nBut while ya'll washin' watch him\\nHe gone make it into a Benz out of that Datsun\\nHe got that ambition baby look at his eyes\\nThis week he moppin' floors, next week it's the fries\\nSo, stick by his side\\nI know this dude's ballin' but yea that's nice\\nAnd they gone keep callin' and tryin'\\nBut you stay right girl\\nBut when you get on he leave yo' ass for a white girl\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head\\nLet me hear that back",
+      "lyrics": [
+          {"starttime": 0, "content":"She take my money when I'm in need\\nYea she's a triflin' friend indeed\\nOh she's a gold digger way over town\\nThat digs on me"},
+          {"starttime": 20, "content":"Now I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz"},
+          {"starttime": 32, "content": "Get down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head"},
+          {"starttime": 42, "content": "Cutie the bomb, met her at a beauty salon\\nWith a baby Louis Vuitton under her underarm\\nShe said I can tell you ROC, I can tell by ya charm\\nFar as girls you got a flock\\nI can tell by ya charm and ya arm"},
+          {"starttime": 54, "content": "But I'm lookin' for the one\\nHave you seen her?\\nMy psychic told me she have a ass like Serena\\nTrina, Jennifer Lopez, four kids\\nAn I gotta take all they bad ass to showbiz"},
+          {"starttime": 64, "content": "Ok, get yo' kids but then they got their friends\\nI pulled up in the Benz, they all got a pen\\nWe all went to Den and then I had to pay\\nIf you fuckin' with this girl then you betta be payed\\nYou know why?"},
+          {"starttime": 75, "content": "It take too much to touch her\\nFrom what I heard she got a baby by Busta\\nMy best friend say she use to fuck wit Usher\\nI don't care what none of ya'll say I still love her"},
+          {"starttime": 85, "content": "Now I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head"},
+          {"starttime": 106, "content": "18 years, 18 years\\nShe got one of yo' kids, got you for 18 years\\nI know somebody payin' child support for one of his kids\\nHis baby momma's car and crib is bigger than his"},
+          {"starttime": 116, "content": "You will see him on TV Any Given Sunday\\nWin the Superbowl and drive off in a Hyundai\\nShe was spose' to buy ya shorty Tyco with ya money\\nShe went to the doctor got lypo with ya money"},
+          {"starttime": 127, "content": "She walkin' around lookin' like Micheal with ya money\\nShould of got that insured Geico for ya money"},
+          {"starttime": 133, "content": "If you ain't no punk holla, 'We want prenup'\\n'We want prenup!', yeaah"},
+          {"starttime": 137, "content": "It's something that you need to have\\n'Cause when she leave yo' ass she gone leave with half\\n18 years, 18 years\\nAnd on her 18th birthday, he found out it wasn't his"},
+          {"starttime": 148, "content": "Now I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nNow I ain't sayin' she a gold digger\\nBut she ain't messin' wit no broke niggaz\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head"},
+          {"starttime": 168, "content": "Now I ain't sayin' you a gold digger, you got needs\\nYou don't want ya dude to smoke but he can't buy weed\\nYou go out to eat and he can't pay, ya'll can't leave\\nThere's dishes in the back, he gotta roll up his sleeves"},
+          {"starttime": 178, "content": "But while ya'll washin' watch him\\nHe gone make it into a Benz out of that Datsun\\nHe got that ambition baby look at his eyes\\nThis week he moppin' floors, next week it's the fries"},
+          {"starttime": 188, "content": "So, stick by his side\\nI know this dude's ballin' but yea that's nice\\nAnd they gone keep callin' and tryin'\\nBut you stay right girl\\nBut when you get on he leave yo' ass for a white girl"},
+          {"starttime": 199, "content": "Get down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head get down\\nGet down girl, go head"},
+          {"starttime": 209, "content": "Let me hear that back"}
+      ],
       "title": "Gold Digger",
       "asset": "gold_digger_kanye.mp3",
       "id": "gold_digger_kanye",
-      "gif": "gold_digger_kanye.gif"
+      "gif": "gold_digger_kanye.gif",
+      "jpg": "gold_digger_kanye.jpg"
     },
     {
       "artist": "Cyndi Lauper",
-      "lyrics": "I come home in the morning light\\nMy mother says when you gonna live your life right\\nOh mother dear we're not the fortunate ones\\nAnd girls they want to have fun\\nOh girls just want to have fun\\nThe phone rings in the middle of the night\\nMy father yells what you gonna do with your life\\nOh daddy dear you know you're still number one\\nBut girls they want to have fun\\nOh girls just want to have\\nThat's all they really want \\nSome fun\\nWhen the working day is done\\nGirls - they want to have fun\\nOh girls just want to have fun\\nSome boys take a beautiful girl\\nAnd hide her away from the rest of the world\\nI want to be the one to walk in the sun\\nOh girls they want to have fun\\nOh girls just want to have \\nThat's all they really want\\nSome fun\\nWhen the working day is done\\nGirls - they want to have fun\\nOh girls just want to have fun,\\nThey want to have fun,\\nThey want to have fun...",
+      "lyrics": [
+          {"starttime": 20, "content":"I come home in the morning light\\nMy mother says when you gonna live your life right\\nOh mother dear we're not the fortunate ones"},
+          {"starttime": 30, "content":"And girls they want to have fun\\nOh girls just want to have fun"},
+          {"starttime": 47, "content":"The phone rings in the middle of the night\\nMy father yells what you gonna do with your life\\nOh daddy dear you know you're still number one"},
+          {"starttime": 58, "content":"But girls they want to have fun\\nOh girls just want to have"},
+          {"starttime": 65, "content":"That's all they really want \\nSome fun"},
+          {"starttime": 72, "content":"When the working day is done\\nGirls - they want to have fun\\nOh girls just want to have fun"},
+          {"starttime": 106, "content":"Some boys take a beautiful girl\\nAnd hide her away from the rest of the world\\nI want to be the one to walk in the sun"},
+          {"starttime": 117, "content":"Oh girls they want to have fun\\nOh girls just want to have"},
+          {"starttime": 123, "content":"That's all they really want\\nSome fun"},
+          {"starttime": 130, "content":"When the working day is done\\nGirls - they want to have fun"},
+          {"starttime": 137, "content":"Oh girls just want to have fun,\\nThey want to have fun,\\nThey want to have fun..."}
+      ],
       "title": "Girls Just Want To Have Fun",
       "asset": "girls_just_wanna_have_fun_cyndi_lauper.mp3",
       "id": "girls_just_wanna_have_fun_cyndi_lauper",
-      "gif": "girls_just_wanna_have_fun_cyndi_lauper.gif"
+      "gif": "girls_just_wanna_have_fun_cyndi_lauper.gif",
+      "jpg": "girls_just_wanna_have_fun_cyndi_lauper.jpg"
     },
     {
       "artist": "R Kelly",
@@ -76,7 +118,8 @@
       "title": "I Believe I Can Fly",
       "asset": "i_believe_i_can_fly_rkelly.mp3",
       "id": "i_believe_i_can_fly_rkelly",
-      "gif": "i_believe_i_can_fly_rkelly.gif"
+      "gif": "i_believe_i_can_fly_rkelly.gif",
+      "jpg": "i_believe_i_can_fly_rkelly.jpg"
     },
     {
       "artist": "Seal",
@@ -95,15 +138,17 @@
       "title": "Kiss From A Rose",
       "asset": "kiss_from_a_rose_seal.mp3",
       "id": "kiss_from_a_rose_seal",
-      "gif": "kiss_from_a_rose_seal.gif"
+      "gif": "kiss_from_a_rose_seal.gif",
+      "jpg": "kiss_from_a_rose_seal.jpg"
     },
     {
       "artist": "B-52s",
-      "lyrics": "If you see a faded sign at the side of the road that says\\n15 miles to theLove Shack\\nLove Shack, yeah, yeah\\nI'm headin' down the Atlanta highway\\nLookin' for the love getaway\\nHeaded for the love getaway\\nI got me a car, it's as big as a whale\\nAnd we're headin' on down to the Love Shack\\nI got me a Chrysler, it seats about 20\\nSo hurry up and bring your jukebox money\\nThe love shack is a little old place where we can get together\\nLove Shack, baby (a-Love Shack, baby)\\nLove Shack, baby, Love Shack\\nLove Shack, baby, Love Shack\\nLove Shack, baby, Love Shack (Love, baby, that's where it's at)\\nLove Shack, baby, Love Shack (Love, baby, that's where it's at)\\nSign says (woo) 'Stay away, fools' \\n'Cause love rules at the Love Shack\\nWell, it's set way back in the middle of a field\\nJust a funky old shack and I gotta get back\\nGlitter on the mattress\\nGlitter on the highway\\nGlitter on the front porch\\nGlitter on the highway\\nThe Love Shack is a little old place where we can get together\\nLove Shack, baby (Love Shack, baby) \\nLove Shack, that's where it's at\\nLove Shack, that's where it's at\\nHuggin' and a-kissin'\\nDancin' and a-lovin'\\nWearin' next to nothin'\\n'Cause it's hot as an oven\\nThe whole shack shimmies\\nYeah, the whole shack shimmies\\nThe whole shack shimmies when everybody's\\nMovin' around and around and around and around\\nEverybody's movin', everybody's groovin', baby\\nFolks linin' up outside just to get down\\nEverybody's movin', everybody's groovin', baby\\nFunky little shack\\nFunky little shack\\nHop in my Chrysler, it's as big as a whale and it's about to set sail\\nI got me a car, like, it seats about 20\\nSo come on and bring your jukebox money\\nThe Love Shack is a little old place where we can get together\\nLove Shack, baby (a-Love Shack, baby)\\nLove Shack, baby, Love Shack\\nLove Shack, baby, Love Shack\\nLove Shack, baby, Love Shack (Love, baby, that's where it's at, yeah)\\nLove Shack, baby, Love Shack (Love, baby, that's where it's at)\\nBang, bang, bang, on the door, baby\\nKnock a little louder, baby\\nBang, bang, bang, on the door, baby\\nI can't hear you\\nBang, bang, bang, on the door, baby\\nKnock a little louder, sugar\\nBang, bang, bang, on the door, baby\\nI can't hear you\\nBang, bang, bang, on the door, baby (Knock a little louder)\\nBang, bang, bang, on the door, baby\\nBang, bang (On the door, baby)\\nBang, bang (On the door)\\nBang, bang (On the door, baby)\\nBang, bang\\nYour what?\\nTin roof, rusted\\nLove Shack, baby, Love Shack\\nLove Shack, baby, Love Shack (Love, baby, that's where it's at, yeah) \\nLove Shack, baby, Love Shack (Love, baby, that's where it's at)\\nLove, baby, Love Shack\\nHuggin' and a-kissin', \\nDancin' and a-lovin' \\nAt the Love Shack",
+      "lyrics": "hey",
       "title": "Love Shack",
       "asset": "love_shack_b_52s.mp3",
       "id": "love_shack_b_52s",
-      "gif": "love_shack_b_52s.gif"
+      "gif": "love_shack_b_52s.gif",
+      "jpg": "love_shack_b_52s.jpg"
     },
     {
       "artist": "Danzig",
@@ -111,7 +156,8 @@
       "title": "Mother",
       "asset": "mother_danzig.mp3",
       "id": "mother_danzig",
-      "gif": "mother_danzig.gif"
+      "gif": "mother_danzig.gif",
+      "jpg": "mother_danzig.jpg"
     },
     {
       "artist": "Frank Sinatra",
@@ -119,15 +165,19 @@
       "title": "My Way",
       "asset": "my_way_sinatra.mp3",
       "id": "my_way_sinatra",
-      "gif": "my_way_sinatra.gif"
+      "gif": "my_way_sinatra.gif",
+      "jpg": "my_way_sinatra.jpg"
     },
     {
       "artist": "Backstreet Boys",
-      "lyrics": "Baby...\\nEven in my heart I see\\nThat you're not bein' true to me\\nDeep within my soul I feel\\nNothing's like it used to be\\nSometimes I wish I could\\nTurn back time impossible as it may seem\\nBut I wish I could so bad, baby\\nQuit playin' games with my heart\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\nI should've known from the start\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games with my heart\\nI live my life the way\\nTo keep you comin' back to me\\nEverything I do is for you\\nSo what is it that you can't see?\\nSometimes I wish I could\\nTurn back time\\nImpossible as it may seem\\nBut I wish I could so bad, baby\\nQuit playin' games with my heart\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\n'Cos I should've known from the start\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games\\nBaby, baby the love that we had was so strong\\nDon't leave me hangin' here forever\\nOh baby, baby, this is not a lie, let's stop this tonight\\nQuit playin' games\\nNa, na, na, na, na, na\\nNa, na, na, na, na, baby\\nNa, na, na, na, na, na\\nSometimes I wish I could\\nTurn back time\\nImpossible as it may seem\\nBut I wish I could so bad, baby\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games with my heart\\nNa, na, na, na, na, na\\nNa, na, na, na, na, baby\\nNa, na, na, na, na, na\\nNa, na, na, na, na, na\\nNa, na, na, na, na, baby\\nNa, na, na, na, na, na\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games with my heart",
+      "lyrics": [
+        {"starttime":1000, "content":"Baby...\\nEven in my heart I see\\nThat you're not bein' true to me\\nDeep within my soul I feel\\nNothing's like it used to be\\nSometimes I wish I could\\nTurn back time impossible as it may seem\\nBut I wish I could so bad, baby\\nQuit playin' games with my heart\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\nI should've known from the start\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games with my heart\\nI live my life the way\\nTo keep you comin' back to me\\nEverything I do is for you\\nSo what is it that you can't see?\\nSometimes I wish I could\\nTurn back time\\nImpossible as it may seem\\nBut I wish I could so bad, baby\\nQuit playin' games with my heart\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\n'Cos I should've known from the start\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games\\nBaby, baby the love that we had was so strong\\nDon't leave me hangin' here forever\\nOh baby, baby, this is not a lie, let's stop this tonight\\nQuit playin' games\\nNa, na, na, na, na, na\\nNa, na, na, na, na, baby\\nNa, na, na, na, na, na\\nSometimes I wish I could\\nTurn back time\\nImpossible as it may seem\\nBut I wish I could so bad, baby\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games with my heart\\nNa, na, na, na, na, na\\nNa, na, na, na, na, baby\\nNa, na, na, na, na, na\\nNa, na, na, na, na, na\\nNa, na, na, na, na, baby\\nNa, na, na, na, na, na\\nQuit playin' games with my heart\\nBefore you tear us apart\\nQuit playin' games with my heart\\nYou know you've got to stop\\nYou're tearin' us apart\\nQuit playin' games with my heart"}
+      ],
       "title": "Quit Playin Games",
       "asset": "quit_playing_games_backstreet.mp3",
       "id": "quit_playing_games_backstreet",
-      "gif": "quit_playing_games_backstreet.gif"
+      "gif": "quit_playing_games_backstreet.gif",
+      "jpg": "quit_playing_games_backstreet.jpg"
     },
     {
       "artist": "Montell Jordan",
@@ -135,7 +185,8 @@
       "title": "This is How We Do It",
       "asset": "this_is_how_we_do_it_montell_jordan.mp3",
       "id": "this_is_how_we_do_it_montell_jordan",
-      "gif": "this_is_how_we_do_it_montell_jordan.gif"
+      "gif": "this_is_how_we_do_it_montell_jordan.gif",
+      "jpg": "this_is_how_we_do_it_montell_jordan.jpg"
     },
     {
       "artist": "Spice Girls",
@@ -143,7 +194,8 @@
       "title": "Wannabe",
       "asset": "wannabe_spice_girls.mp3",
       "id": "wannabe_spice_girls",
-      "gif": "wannabe_spice_girls.gif"
+      "gif": "wannabe_spice_girls.gif",
+      "jpg": "wannabe_spice_girls.jpg"
     },
     {
       "artist": "TLC",
@@ -151,7 +203,8 @@
       "title": "Waterfalls",
       "asset": "waterfalls_tlc.mp3",
       "id": "waterfalls_tlc",
-      "gif": "waterfalls_tlc.gif"
+      "gif": "waterfalls_tlc.gif",
+      "jpg": "waterfalls_tlc.jpg"
     },
     {
       "artist": "Oasis",
@@ -159,7 +212,8 @@
       "title": "Wonderwall",
       "asset": "wonderwall_oasis.mp3",
       "id": "wonderwall_oasis",
-      "gif": "wonderwall_oasis.gif"
+      "gif": "wonderwall_oasis.gif",
+      "jpg": "wonderwall_oasis.jpg"
     }
   ]
 }
