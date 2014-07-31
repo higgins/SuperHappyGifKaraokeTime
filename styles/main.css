@@ -25,8 +25,8 @@ html, body {
 }
 
 .audio {
-	z-index: 1001;
-	position: absolute;
+	z-index: 2000;
+	position: absolute; 
 }
 
 .close {
@@ -242,4 +242,8 @@ html, body {
 button:active {
 	background-color: #3b0011;
 	color: white;
+}
+
+audio {
+
 }

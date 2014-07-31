@@ -3,7 +3,7 @@
     {
       "artist": "Queen",
       "lyrics": "Is this the real life?\\nIs this just fantasy?\\nCaught in a landslide\\nNo escape from reality\\nOpen your eyes\\nLook up to the skies and see\\nI'm just a poor boy, I need no sympathy\\nBecause I'm easy come, easy go\\nA little high, little low\\nAnyway the wind blows, doesn't really matter to me, to me\\nMama, just killed a man\\nPut a gun against his head\\nPulled my trigger, now he's dead\\nMama, life had just begun\\nBut now I've gone and thrown it all away\\nMama, ooo\\nDidn't mean to make you cry\\nIf I'm not back again this time tomorrow\\nCarry on, carry on, as if nothing really matters\\nToo late, my time has come\\nSends shivers down my spine\\nBody's aching all the time\\nGoodbye everybody - I've got to go\\nGotta leave you all behind and face the truth\\nMama, ooo - (anyway the wind blows)\\nI don't want to die\\nI sometimes wish I'd never been born at all\\nI see a little silhouetto of a man\\nScaramouch, scaramouch will you do the fandango\\nThunderbolt and lightning - very very frightening me\\nGallileo, Gallileo,\\nGallileo, Gallileo,\\nGallileo Figaro - magnifico\\nBut I'm just a poor boy and nobody loves me\\nHe's just a poor boy from a poor family\\nSpare him his life from this monstrosity\\nEasy come easy go - will you let me go\\nBismillah! No - we will not let you go - let him go\\nBismillah! We will not let you go - let him go\\nBismillah! We will not let you go - let me go\\nWill not let you go - let me go (never)\\nNever let you go - let me go\\nNever let me go - ooo\\nNo, no, no, no, no, no, no -\\nOh mama mia, mama mia, mama mia let me go\\nBeelzebub has a devil put aside for me\\nfor me\\nfor me\\nSo you think you can stone me and spit in my eye\\nSo you think you can love me and leave me to die\\nOh baby - can't do this to me baby\\nJust gotta get out - just gotta get right outta here\\nOoh yeah, ooh yeah\\nNothing really matters\\nAnyone can see\\nNothing really matters - nothing really matters to me",
-      "title": "Bohemian Rhapsode",
+      "title": "Bohemian Rhapsody",
       "asset": "bohemian_rhapsody_queen.mp3",
       "id": "bohemian_rhapsody_queen",
       "gif": "bohemian_rhapsody_queen.gif"
@@ -42,7 +42,19 @@
     },
     {
       "artist": "Cyndi Lauper",
-      "lyrics": "I come home in the morning light\\nMy mother says when you gonna live your life right\\nOh mother dear we're not the fortunate ones\\nAnd girls they want to have fun\\nOh girls just want to have fun\\nThe phone rings in the middle of the night\\nMy father yells what you gonna do with your life\\nOh daddy dear you know you're still number one\\nBut girls they want to have fun\\nOh girls just want to have\\nThat's all they really want \\nSome fun\\nWhen the working day is done\\nGirls - they want to have fun\\nOh girls just want to have fun\\nSome boys take a beautiful girl\\nAnd hide her away from the rest of the world\\nI want to be the one to walk in the sun\\nOh girls they want to have fun\\nOh girls just want to have \\nThat's all they really want\\nSome fun\\nWhen the working day is done\\nGirls - they want to have fun\\nOh girls just want to have fun,\\nThey want to have fun,\\nThey want to have fun...",
+      "lyrics": [
+          {"starttime": 0, "content":"I come home in the morning light\\nMy mother says when you gonna live your life right\\nOh mother dear we're not the fortunate ones"},
+          {"starttime": 0, "content":"And girls they want to have fun\\nOh girls just want to have fun"},
+          {"starttime": 0, "content":"The phone rings in the middle of the night\\nMy father yells what you gonna do with your life\\nOh daddy dear you know you're still number one"},
+          {"starttime": 0, "content":"But girls they want to have fun\\nOh girls just want to have"},
+          {"starttime": 0, "content":"That's all they really want \\nSome fun"},
+          {"starttime": 0, "content":"When the working day is done\\nGirls - they want to have fun\\nOh girls just want to have fun"},
+          {"starttime": 0, "content":"Some boys take a beautiful girl\\nAnd hide her away from the rest of the world\\nI want to be the one to walk in the sun"},
+          {"starttime": 0, "content":"Oh girls they want to have fun\\nOh girls just want to have"},
+          {"starttime": 0, "content":"That's all they really want\\nSome fun"},
+          {"starttime": 0, "content":"When the working day is done\\nGirls - they want to have fun"},
+          {"starttime": 0, "content":"Oh girls just want to have fun,\\nThey want to have fun,\\nThey want to have fun..."},
+      ],
       "title": "Girls Just Want To Have Fun",
       "asset": "girls_just_wanna_have_fun_cyndi_lauper.mp3",
       "id": "girls_just_wanna_have_fun_cyndi_lauper",
