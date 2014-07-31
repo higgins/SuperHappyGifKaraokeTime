@@ -10,6 +10,10 @@ define(function (require) {
 		grid.attachTo('.grid');
 		stage.attachTo('.stage');
 		$(document).trigger('uiGridOpen');
+
+		$("#okBtn").click(function(e) {
+			$(".overlay").fadeOut(350);
+		});
 	};
 
     return initalize;
