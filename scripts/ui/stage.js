@@ -32,7 +32,6 @@ define(function (require) {
 		};
 
 		this.dataReceived = function (evt, msg) {
-			console.log(msg);
 			// set stage
 			this.setStage(msg);
 			// animate in

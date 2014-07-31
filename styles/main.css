@@ -58,6 +58,10 @@ html, body {
 	background-color: rgba(0,0,0,.4);
 }
 
+.lyrical-content p {
+	padding: 0 0 360px;
+}
+
 .highlight {
 	color: rgb(255, 255, 136);
 };
